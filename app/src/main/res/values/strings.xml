@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">TextCraft Utility</string>
+    <string name="enter_text">Enter text</string>
+    <string name="output">Output</string>
+    <string name="to_uppercase">TO UPPERCASE</string>
+    <string name="to_lowercase">TO LOWERCASE</string>
+    <string name="title_case">TITLE CASE</string>
+    <string name="remove_extra_spaces">REMOVE EXTRA SPACES</string>
+    <string name="reverse_text">REVERSE TEXT</string>
+
+    <string name="clear_text">CLEAR TEXT</string>
+    <string name="copy">COPY</string>
+    <string name="share">SHARE</string>
+    <string name="text_copied">Text copied</string>
+
+</resources>
